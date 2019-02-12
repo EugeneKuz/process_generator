@@ -98,6 +98,8 @@ int main(void)
 	 * Use endless loop to keep the program running so that you can check the 
 	 * result with another terminal.
 	 */
-	while(1){}
+	while(1){
+		sleep(20);
+	}
 	return 0;
 }
