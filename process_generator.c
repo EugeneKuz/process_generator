@@ -94,6 +94,7 @@ int main(void)
 	 * and 4 Batch (B).
 	 */
 	fork_processes();
+	
 	/*
 	 * Sleep for 30 seconds so that you can check the result with another 
 	 * terminal.
